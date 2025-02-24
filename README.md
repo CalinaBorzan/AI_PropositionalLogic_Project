@@ -23,7 +23,7 @@ To run the Escape Room Game on your local machine, follow these steps:
 ### 1. Clone the Repository:
 ```sh
 git clone https://github.com/CalinaBorzan/AI_PropositionalLogic_Project.git
-cd escape-room-game
+cd AI_PropositionalLogic_Project
 ```
 
 ### 2. Install Dependencies:
